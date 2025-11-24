@@ -1,0 +1,17 @@
+# Dependencias de Node (Carpeta muy pesada, se regenera con npm install)
+node_modules/
+
+# Logs de errores
+npm-debug.log
+yarn-error.log
+
+# Archivos de entorno (Aquí van claves secretas, NUNCA subir a GitHub)
+.env
+
+# Archivos del sistema operativo (Basura)
+.DS_Store
+Thumbs.db
+
+# Carpetas de builds o distribución (opcional)
+dist/
+build/
